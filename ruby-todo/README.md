@@ -10,5 +10,6 @@ A simple command-line To-Do List app written in Ruby.
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/ruby-todo.git
+git clone https://github.com/DeepakMoHank/ruby-todo.git
 cd ruby-todo
+
